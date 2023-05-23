@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+    <body>
+    
+        <nav>
+  
+            <div class="menu">
+  
+                <div class="logo">
+            
+                  <a href="#">The Madman Of Marvel</a>
+            
+                </div>
+            
+                <ul>
+            
+                  <li> <a href=""> Site utile</a></li>
+            
+                  <li><a href="Jeu.html">Jeux</a></li>
+            
+                  <li><a href="Streaming.html">Streaming</a></li>
+            
+                  <li><a href="Reseaux_sociaux.html">Réseau sociaux</a></li>
+            
+                  <li><a href="outils.html">Autre</a></li>
+          
+                </ul>
+            
+              </div>
+        </nav>     
+      
+        
+        <p> - </p>
+
+        <p> - </p>
+
+        <p> - </p>
+
+        <p>
+        <a href="http://www.buhltech.fr/Site/Site-UHL/Introduction.html"> <button>Mr Uhl</button> </a>
+        
+        
+        <a href="https://www.gcworks.fr/accueil/index.html"><button>Mr Gueunot</button></a>
+        </p>
+
+        <p>
+        <a href="https://cas.eclat-bfc.fr/login?service=https%3A%2F%2Flyc-closmaire-beaune.eclat-bfc.fr%2Fsg.do%3FPROC%3DTRAVAIL_A_FAIRE%26ACTION%3DAFFICHER_ELEVES_TAF%26filtreAVenir%3Dtrue"><button>Eclat</button></a>
+        </p>
+
+        <p>
+        <a href="http://docplatypus.org/"><button>Mr Guinot</button></a>
+        </p>        
+        
+        <p>
+        <a href="https://mail.google.com/mail/u/0/#inbox"><button>Gmail</button></a>
+        </p>
+        
+        <p>
+        <a href="https://chat.openai.com/chat"><button>ChatGPT</button></a>
+        </p>
+        
+        <p>
+        <a href="https://www.deepl.com/fr/translator"><button>Deeple</button></a>
+        </p>
+
+        <p>
+        <a href="https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=fr-fr&country=fr#/school/teams-grid/General?ctx=teamsGrid"><button>Teams</button></a>
+        </p>
+            
+
+        <style type="text/css">
+    
+            *{
+                margin-top: 0px;
+            }
+            body{
+                text-align: center;
+                background:url("https://wallpapercrafter.com/desktop/70154-captain-america-civil-war-movies-superheroes-hd-4k-5k-iron-man-captain-america-black-widow-ant-man-black-panther-war-machine-vision-scarlet-witch.jpg");
+                background-size: cover;
+            }
+            button{
+                padding: 20px 50px;
+                background-color: (0px, 0px, 0px);
+                border-radius: 50px;
+                margin-top: 10px;
+            }
+            h1{
+                color: red
+            }
+            p{
+                color: white;
+            }
+            
+        </style>
+        
+    </body>
+</html>
