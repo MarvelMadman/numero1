@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+    <body>
+    
+        <nav>
+  
+            <div class="menu">
+  
+                <div class="logo">
+            
+                  <a href="#">The Madman Of Marvel</a>
+            
+                </div>
+            
+                <ul>
+            
+                  <li> <a href="Site_utile.html"> Site utile</a></li>
+            
+                  <li><a href="Jeu.html">Jeux</a></li>
+            
+                  <li><a href="">Streaming</a></li>
+            
+                  <li><a href="Reseaux_sociaux.html">Réseau sociaux</a></li>
+            
+                  <li><a href="outils.html">Autre</a></li>
+          
+                </ul>
+            
+              </div>
+      
+        </nav>     
+      
+        <div id="carte">
+        
+
+        <FONT size="5pt">
+        
+        <div style="text-align: center" >       
+
+        <p>   .   </p>
+        <p>   .   </p>
+        
+
+        <p><a href="https://www.youtube.com/"><button>Youtube</button></a></p>
+
+        <p><a href="https://ww9.french-stream.is/x"><button>French-Stream</button></a></p>
+
+        <p><a href="https://www.netflix.com/fr/"><button>Netflix</button></a></p>
+
+        <p><a href="https://www.disneyplus.com/fr-fr/sign-up/?type=standard&cid=DSS-Search-Google-71700000064847220-&s_kwcid=AL!8468!3!576098082688!e!!g!!disney&&cid=DSS-Search-Google-71700000064847220-&s_kwcid=AL!8468!3!576098082688!e!!g!!disney&gclid=Cj0KCQjwz6ShBhCMARIsAH9A0qVBqEubN2S64iIQogx-fV7m1oIDwF9bgyWIGExOExilT2qlir6zS-oaAishEALw_wcB&gclsrc=aw.ds"><button>Disney+</button></a></p>
+
+        </FONT>
+
+        </div>    
+        </div>
+
+        <style type="text/css">
+    
+            *{
+                margin-top: 0px;
+            }
+            body{
+                text-align: center;
+                background:url("https://wallpapercrafter.com/desktop/70154-captain-america-civil-war-movies-superheroes-hd-4k-5k-iron-man-captain-america-black-widow-ant-man-black-panther-war-machine-vision-scarlet-witch.jpg");
+                background-size: cover;
+                margin-block: 0;
+            }
+            button{
+                padding: 20px 50px;
+                background-color:hsla(0, 0%, 100%, 0.444);
+                border-radius: 50px;
+                margin-top: 10px;
+                padding: 20px 32px;
+            }
+            h1{
+                color: red
+            }
+            p{
+                color: white;
+            }
+        </style>
+    </body>
+
+    </html>
