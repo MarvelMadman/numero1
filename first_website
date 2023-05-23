@@ -20,15 +20,15 @@
   
       <ul>
   
-        <li> <a href="Pages/Site_utile.html"> Site utile</a></li>
+        <li> <a href="Site_utile.html"> Site utile</a></li>
   
-        <li><a href="Pages/Jeu.html">Jeux</a></li>
+        <li><a href="Jeu.html">Jeux</a></li>
   
-        <li><a href="Pages/Streaming.html">Streaming</a></li>
+        <li><a href="Streaming.html">Streaming</a></li>
   
-        <li><a href="Pages/Reseaux_sociaux.html">Réseau sociaux</a></li>
+        <li><a href="Reseaux_sociaux.html">Réseau sociaux</a></li>
   
-        <li><a href="Pages/outils.html">Autre</a></li>
+        <li><a href="outils.html">Autre</a></li>
 
       </ul>
   
